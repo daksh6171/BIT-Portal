@@ -186,4 +186,4 @@ Student Timetable:
 ![alt](https://github.com/daksh6171/BIT-Portal/blob/main/Images/Student_timetable.png)
 
 ## Scope of Advancement
-This Web-App address major functionalities needed for an ERP, but one can always add various other functionalities, like teacher's attendance, cumulative grade reports, fee reports etc.
+This Web-App addresses major functionalities needed for an ERP, but one can always add various other functionalities, like teacher's attendance, cumulative grade reports, fee reports etc.
