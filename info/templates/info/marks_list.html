@@ -24,8 +24,8 @@
                   <tbody>
                     {% for sc in sc_list %}
                     <tr>
-                        <td>{{ sc.course_id }}</td>
-                        <td>{{sc.course.name}}</td>
+                        <td><b>{{ sc.course_id }}</b></td>
+                        <td><b>{{sc.course.name}}</b></td>
                         {% for m in sc.marks_set.all %}
                             <td>{{ m.marks1 }}</td>
                         {% endfor %}
