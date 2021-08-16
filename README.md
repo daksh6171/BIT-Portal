@@ -61,9 +61,9 @@ To create a super user (Another admin), type the command:
 python manage.py createsuperuser
 ```
 ## Create New User
-New user can be created only by the admin. Log In to the admin panel and add user.   
-Admin is able to change tables like, Teacher, Students, User, Marks, Attendance etc.    
-It can create and delete entries from the above tables.
+* New user can be created only by the admin. Log In to the admin panel and add user.   
+* Admin is able to change tables like, Teacher, Students, User, Marks, Attendance etc.    
+* It can create and delete entries from the above tables.
 
 ## Functions of Admin
 * Create User
